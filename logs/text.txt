@@ -1,0 +1,3 @@
+27-05-22 12-05-56
+
+Cannot delete or update a parent row: a foreign key constraint fails (`sowmiyadb`.`tickettable`, CONSTRAINT `tickettable_ibfk_2` FOREIGN KEY (`busid`) REFERENCES `bustable` (`busid`))
